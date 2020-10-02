@@ -91,5 +91,5 @@ for i in range(10):
 	print a[i]
 aa = myArray2D(5):
 		aa[i,j] = i * j
-		print aa[i,j]
+		print(a[i])
 	print
